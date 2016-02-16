@@ -7,6 +7,6 @@
 * Git介绍([维基百科](https://zh.wikipedia.org/wiki/Git))
 
 ###教程：如何在Github上合作  
-* Github仓库和本地仓库怎么玩？
+* [Github仓库和本地仓库怎么玩？](Remote-Local-Repo.md)
 * 怎么把我的改动提交到远程仓库？
 * 怎么拉分支与合并分支？
